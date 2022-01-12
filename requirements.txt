@@ -4,3 +4,5 @@ numpy
 pandas
 seaborn
 scikit-learn
+pandas-profiling
+#!jupyter nbextension enable --py widgetsnbextension
