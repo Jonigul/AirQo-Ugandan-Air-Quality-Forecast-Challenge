@@ -2,7 +2,8 @@ jupyterlab
 matplotlib
 numpy
 pandas
+pandas-profiling
 seaborn
 scikit-learn
-pandas-profiling
+statsmodels
 #!jupyter nbextension enable --py widgetsnbextension
