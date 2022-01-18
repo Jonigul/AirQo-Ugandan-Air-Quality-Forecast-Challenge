@@ -1,5 +1,8 @@
 # AirQo-Ugandan-Air-Quality-Forecast-Challenge
 
+The AirQo Ugandan Air Quality Forecast is a challenge presented on [zindi](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge).
+The aim of the challenge was to forecast the air quality using weather data in 5 locations in Uganda.
+
 **StarterNotebook_Updated.ipynb** was provided by the challenge organiser.
 
 **AirQ_EDA.ipynb** contains loading and extracting the data and a pandas profile report for first evaluation. The profile report is saved in **Analysis.html**.
